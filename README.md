@@ -37,6 +37,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/davi-mancuso-0aa876344/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Meu-Email)](mailto:mancusodavi37@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Davi-Mancuso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/davi-mancuso-0aa876344/)
+[![Gmail Badge](https://img.shields.io/badge/-mancusodavi37@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Meu-Email)](mailto:mancusodavi37@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/DaviMancuso))
